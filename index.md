@@ -7,4 +7,4 @@ Static page to host Edilson's resumes.
 - [Portuguese](https://github.com/edilsondjr/page/blob/master/curriculo_edilson.pdf)
 - [English](https://github.com/edilsondjr/page/blob/master/resume_edilson.pdf)
 
-Last Update: December 12, 2018
+Last Update: December 17, 2018
